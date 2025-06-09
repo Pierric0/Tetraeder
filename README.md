@@ -6,3 +6,5 @@ This project is an interactive Java program that visually represents a three-dim
 As the user performs these transformations, the program simultaneously displays the corresponding matrix values that represent the tetrahedron and its individual vertices. This provides insight into the mathematical operations (such as rotation, translation, and scaling matrices) that are used to transform the object graphically.
 
 The entire project was developed using the Java programming language and Swing packages.
+
+![Demonstration of Tetraeder](/assets/Tetraeder_animation.gif)
